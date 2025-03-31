@@ -20,10 +20,10 @@ This website serves as my personal knowledge base – a digital garden where I c
 
 **What you'll find here:**
 
-*   **(Coming Soon) Blog:** A collection of personal stories, reflections, and updates on my journey.
-*   **(Coming Soon) Experiments:** Detailed write-ups of practical explorations.
-*   **(Coming Soon) Projects:** Overviews academic and (*hopefully*) real world projects.
-*   **(Coming Soon) Notes:** Curated notes and quick references on various technical topics.
+*   **[Blog](/blog):** A collection of personal stories, reflections, and updates on my journey.
+*   **[Experiments](/experiments):** Detailed write-ups of practical explorations.
+*   **[Projects](/projects):** Overviews academic and (*hopefully*) real world projects.
+*   **[Notes](/notes):** Curated notes and quick references on various technical topics.
 
 Feel free to explore the sections. I hope you find something useful or interesting!
 
