@@ -13,18 +13,19 @@ title = "hazembook"
   # Allow users to choose from a list (first is default)
   themeVariant = ["zen-dark", "zen-light", "relearn-dark", "relearn-light"]
 
-# Set the default language
-defaultContentLanguage = "ar"
+defaultContentLanguage = 'en'
 
 [languages]
-  [languages.ar]
-    languageName = "العربية" # Arabic Language Name
-    languageCode = "ar"
-    contentDir = "content/ar" # Content files for Arabic
-    weight = 1
-    rtl = true
   [languages.en]
-    languageName = "English"
-    languageCode = "en-us"
-    contentDir = "content/en" # Content files for English
-    weight = 2 # Order in language switcher (lower is first)
+    contentDir = 'content/en'
+    languageCode = 'en'
+    languageName = 'English'
+    title = 'My Website'
+    weight = 1
+
+  [languages.ar]
+    contentDir = 'content/ar'
+    languageCode = 'ar'
+    languageDirection = 'rtl'
+    languageName = 'Arabic'
+    weight = 2
