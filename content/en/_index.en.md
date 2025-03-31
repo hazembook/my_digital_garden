@@ -12,7 +12,8 @@ This website serves as my personal knowledge base – a digital garden where I c
 **My focus areas include:**
 
 *   **Linux:** Distros, commands, tools, window managers, etc.
-*   **Core Tools:** Bash, Git, Vim, Tmux, SSH, Rsync and many more waiting to be **discovered**.
+*   **Tools and Commands:** Bash, Git, Vim, Tmux, SSH, Rsync and many more waiting to be **discovered**.
+*   **Programming:** Sailing in various programming languages and framework.
 *   **Virtualization & Containerization:** KVM (I previously used VirtualBox and VMware before settling on KVM), Docker, and occasionally Podman.
 *   **Automation:** Learning and applying Bash scripting and Ansible.
 *   **Exploring FOSS:** Investigating and implementing open-source solutions.
